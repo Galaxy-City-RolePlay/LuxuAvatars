@@ -14,7 +14,7 @@ Config.UseMySQL = true -- Set to true if you want to use MySQL instead of Local 
 --[[ Framework Exclusive ]]
 -- These options only work if you have Config.Framework defined
 
-Config.Framework = 'qb'          -- "qb" - QBCore, "esx" - ESX, false - None
+Config.Framework = 'esx'          -- "qb" - QBCore, "esx" - ESX, false - None
 Config.ESX_VERSION = "legacy"    -- "legacy" - ESX Legacy, "old" -- ESX
 
 Config.CharacterExclusive = true -- Set to true if you want each player character to have their own avatar
